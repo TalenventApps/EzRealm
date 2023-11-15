@@ -3,4 +3,4 @@ An auto-nexus, auto-health-pot, auto-mana-pot, anti-confuse[alpha-implementation
 
 This tool helps prevent character deaths, and gives you a bit more ease when playing.
 
-Now with its source on github to allow it to ever evolve.
+Now with its source on github to allow it to ever evolve, grow, get fixed, revamped, and redone.
